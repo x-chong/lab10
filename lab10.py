@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 plt.style.use('seaborn')
 
 
-st.title('California Housing Data(1990) by Shiyu Wei')
+st.title('California Housing Data(1990) by Jiachong Li')
 df = pd.read_csv('housing.csv')
 
 # create a multi select
